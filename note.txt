@@ -1,0 +1,20 @@
+alert :
+
+    auth :
+        login : success, error
+        register : success, error
+        psupassport : success, error
+        info : success, error
+        logut : success
+
+    student :
+        application : terms, success, payment
+        profile : success
+
+    General :
+        application : terms, success, payment
+        confirmation : payment, success
+
+
+
+

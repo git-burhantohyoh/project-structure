@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+.title {
+  text-align: center;
+}
+.btn-user {
+  text-align: center;
+  margin-top: 20px;
+}
+.btn {
+  margin: 5px;
+}
